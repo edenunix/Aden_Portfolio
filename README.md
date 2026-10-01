@@ -2,7 +2,7 @@
 
 Welcome to the official repository of my personal portfolio website. This project showcases my background, technical skills, academic journey, and real-world software engineering projects.
 
-🔗 **Live Website:** [https://edenunix.github.io/aden_portfolio_v3/](https://edenunix.github.io/aden_portfolio_v3/)
+🔗 **Live Website:** [https://edenunix.github.io/aden_portfolio_v3/](https://edenunix.github.io/Aden_Portfolio/)
 
 ---
 
